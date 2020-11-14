@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kid-helper/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/kid-helper/static/js/main.61ae2a55.chunk.js",
+    "main.js.map": "/kid-helper/static/js/main.61ae2a55.chunk.js.map",
+    "runtime-main.js": "/kid-helper/static/js/runtime-main.1f9ee413.js",
+    "runtime-main.js.map": "/kid-helper/static/js/runtime-main.1f9ee413.js.map",
+    "static/js/2.209fd874.chunk.js": "/kid-helper/static/js/2.209fd874.chunk.js",
+    "static/js/2.209fd874.chunk.js.map": "/kid-helper/static/js/2.209fd874.chunk.js.map",
+    "static/js/3.7cb09a96.chunk.js": "/kid-helper/static/js/3.7cb09a96.chunk.js",
+    "static/js/3.7cb09a96.chunk.js.map": "/kid-helper/static/js/3.7cb09a96.chunk.js.map",
+    "index.html": "/kid-helper/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/kid-helper/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.209fd874.chunk.js.LICENSE.txt": "/kid-helper/static/js/2.209fd874.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/kid-helper/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f9ee413.js",
+    "static/js/2.209fd874.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.61ae2a55.chunk.js"
+  ]
+}
