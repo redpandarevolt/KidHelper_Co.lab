@@ -1,7 +1,19 @@
 .App {
   text-align: center;
+  font-family: sans-serif;
+}
+body {
+  padding: 15px;
 }
 
+.top-nav li{
+  float: right;
+  font-size: 25px;
+  padding: 25px;
+  list-style-type: none;
+  margin-top:0px;
+  margin-bottom:100px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

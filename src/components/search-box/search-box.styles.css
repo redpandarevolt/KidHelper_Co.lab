@@ -1,0 +1,13 @@
+SearchBox.search {
+     -webkit-appearance: none;
+     border: 15px;
+     border-color:gray;
+     outline: none;
+     padding: 25px;
+     width: 350px;
+     line-height: 30px;
+     margin-bottom: 30px;
+     border-radius: 15px;
+     align-items: center;
+  }
+  
